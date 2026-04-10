@@ -1,0 +1,2 @@
+view.logintela
+view.LoginTela
